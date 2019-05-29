@@ -19,3 +19,5 @@ aws sts get-caller-identity
 aws eks update-kubeconfig --name democluster
 
 kubectl get nodes
+
+https://www.codementor.io/slavko/kubernetes-cluster-on-aws-eks-lecygk6rl
