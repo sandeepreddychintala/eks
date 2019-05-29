@@ -1,0 +1,21 @@
+https://amazon-eks.s3-us-west-2.amazonaws.com/cloudformation/2018-11-07/amazon-eks-vpc-sample.yaml
+
+https://amazon-eks.s3-us-west-2.amazonaws.com/cloudformation/2018-11-07/amazon-eks-nodegroup.yaml
+
+https://github.com/linuxacademy/eks-deep-dive-2019
+
+https://github.com/awsdocs/aws-cloudformation-user-guide/blob/master/doc_source/quickref-autoscaling.md
+
+https://www.codementor.io/slavko/kubernetes-cluster-on-aws-eks-lecygk6rl
+
+Each subnet IP Range?
+EC2 Roles & Policies
+S3 bucket roles and policies
+EKS cluster roles and policies
+EMR cluster roles and policies
+
+aws sts get-caller-identity
+
+aws eks update-kubeconfig --name democluster
+
+kubectl get nodes
